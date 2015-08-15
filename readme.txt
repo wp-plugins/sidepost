@@ -23,7 +23,7 @@ If you notice any bugs in the plugin, you can notify me about it and we'll inves
 
 == Installation ==
 
-1. Upload the folder `srp` to the directory `/wp-content/plugins/`.
+1. Upload the folder `sidepost` to the directory `/wp-content/plugins/`.
 2. Activate the plugin via the 'Plugins' menu in your WordPress admin panel.
 3. You can adjust the necessary settings in your WordPress widget area.
 
