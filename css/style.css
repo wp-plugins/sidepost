@@ -1,0 +1,58 @@
+.zmspr {
+  margin: 5px 5px 20px 5px;
+  padding: 5px 5px 5px 5px;
+  float:left;
+  width:100%;
+}
+.okvir {
+  margin: 0px 5px 0px 5px;
+  padding: 0px 0px 0px 0px;
+  width:100%;
+  line-height: 100%;
+}
+.zmspr p {
+ margin: 0px 0px 0px 0px;
+ line-height: 100%;
+}
+.zmspr .clearfix {
+  *zoom: 1;
+}
+.zmspr .clearfix:before,
+.zmspr .clearfix:after {
+  content: "";
+  display: table;
+  line-height: 0;
+}
+.zmspr .clearfix:after {
+  clear: both;
+}
+.slika {
+  float: left;
+  text-align:left;
+  border:1px solid #ccc;
+  background-color:#fff;
+  padding: 2px 2px 2px 2px !important;
+  margin: 0px 5px 5px 0px !important;
+}
+.naslov {
+  margin: 5px 0px 5px 5px ;
+  clear:both;
+  font-weight: bold;
+  line-height: 100%;
+}
+.datum{font-size: smaller;
+margin: 5px 0px 5px 5px ;
+clear:both;
+line-height: 100%;text-align:left;
+}
+.zmspr ul {
+  list-style-type: none;
+  margin: 0px 5px 0px 5px;
+  padding: 0px 0px 0px 0px;
+}
+.zmspr li {
+  list-style-type: none;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  line-height: 100%;
+}

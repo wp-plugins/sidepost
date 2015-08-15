@@ -1,0 +1,20 @@
+.wrap1{float:left;padding: 20px 20px 20px 20px;margin: 20px 10px 20px 10px;max-width:400px;text-align:left;background-color:#fff;}
+.wrap2{float:left;padding: 20px 20px 20px 20px;margin: 20px 10px 20px 10px;max-width:400px;width:auto;text-align:left;background-color:#fff;}
+.ikonica {float:left;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;width:auto;height:auto;max-height:48px;display:inline;overflow:hidden;}
+.okvir{float:left;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;max-width:360px;max-height::440px;text-align:left;clear:both;}
+.forma1{float:left;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;overflow:hidden;text-align:left;}
+.naslov{float:left;padding: 0px 0px 0px 0px;margin: 0px 0px 20px 0px; text-align:left; clear:both; font-size:16px; min-width:400px;}
+.upisati{
+  margin: 0px 5px 0px 5px;
+  padding: 0px 0px 0px 0px;
+  overflow: hidden;
+  width:100%;
+  max-width:50px;
+}
+.upisatidva{
+  margin: 0px 5px 0px 5px;
+  padding: 0px 0px 0px 0px;
+  overflow: hidden;
+  width:100%;
+  max-width:100px;
+}
